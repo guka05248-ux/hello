@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+1aff38476d4273d5bc763db7093f7e792fb940ec refs/heads/feature
+243758549b4de3c95239a732dac3ed32817dae16 refs/heads/main
+0b62d00e71a2a60ee72217a265af5cdea8ac2cb3 refs/heads/vetka
